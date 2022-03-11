@@ -6,6 +6,8 @@ Simplified PHP - Routing Library
 2.  Place the htaccess on your root directory for your php project
 3.  You're done and ready for implementation
 
+
+
 #Implementation
 1.  The .htaccess automatically points your project to index.php where all your routing logic will be place
 2.  require the Routes.php file located in easeroutes/src/Routes.php
@@ -19,6 +21,10 @@ Simplified PHP - Routing Library
 }
 4.  run dump-autoload
 5.  You are ready to Code
+
+#COMPOSER
+"greenswitch/ease-routes": "dev-main"
+
 
 #Code
 "In the index.php"
